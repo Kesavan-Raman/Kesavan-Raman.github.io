@@ -1,6 +1,6 @@
-[My Portfolio](http://kesavan-raman.github.io/) <img src="https://img.icons8.com/material-outlined/24/000000/portfolio.png"/>
 
-# Kesavan R
+
+# Kesavan R (http://kesavan-raman.github.io/) <img src="https://img.icons8.com/material-outlined/24/000000/portfolio.png"/>
 
 ## Technical Skills
 Java, Python, Computer Vision, NLP, and Cloud Computing.
